@@ -1,0 +1,22 @@
+{
+	"Themename": "default",
+	"index": "index.html",
+	"other": "other.html",
+	"variables": {
+		"title": "text",
+		"description": "textarea",
+		"session": "text",
+		"number": "text",
+		"contact": "textarea",
+		"objective": "textarea",
+		"schedule": "textarea",
+		"references": "textarea",
+		"content": "textarea",
+		"announcements": "textarea",
+		"notes": "attachments",
+		"grading_schema": "textarea",
+		"instructors": "text",
+		"projects": "textarea",
+		"assignments": "attachments"
+	}
+}
